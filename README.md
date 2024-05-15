@@ -1,3 +1,8 @@
+![Screenshot from 2024-05-15 06-43-31](https://github.com/pauloskii/image-generator/assets/57170298/038e7241-870a-4e6b-80a9-6aad7cd6268d)
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
